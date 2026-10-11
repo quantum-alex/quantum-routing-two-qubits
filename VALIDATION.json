@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-10",
+  "environment": {
+    "python": "3.13.0",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "qiskit": "2.5.2"
+  },
+  "purpose": "Checks of this repository package; not the original hardware execution environment.",
+  "completed_checks": [
+    "verify.py: archived hashes, all 131072 outcomes, 16 classical rules, pooled and block estimates, primary witness, confidence bounds, and long-long ceiling",
+    "circuit.py: all eight logical circuits match the analytic splitting probabilities",
+    "optimize.py: six local searches and differential evolution reproduce the saved planning prediction",
+    "All local documentation links resolve",
+    "JSON files parse; upload folder contains no detected credential patterns, personal filesystem paths, repository placeholders or environment folders"
+  ],
+  "results": {
+    "wait_reduction_percent": 6.1582326923884425,
+    "conservative_99_relative_lower_percent": 5.778292390741708,
+    "quantum_long_long_split": 0.855072021484375,
+    "classical_long_long_ceiling": 0.6680755615234375,
+    "saved_strategy_predicted_percent": 5.726185230377993,
+    "six_start_best_percent": 5.726185230378839,
+    "population_search_percent": 5.72618523021662
+  }
+}

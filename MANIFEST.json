@@ -1,0 +1,42 @@
+[
+  {
+    "file": "data/analysis.json",
+    "sha256": "349771cb87195342f3c7551666f6db38a9063a40f2f9315296a1ce48a068099a"
+  },
+  {
+    "file": "data/assessment.json",
+    "sha256": "67d2f737e7432e641c2a8a44f8f4407f0169438d05d57e8fe49602b1e9460f20"
+  },
+  {
+    "file": "data/circuits.qpy",
+    "sha256": "b74849e138b60b0f5ae4d71d7b0fe959d2fb0d455bf13a047f2172d22431b810"
+  },
+  {
+    "file": "data/compiled_circuits.qpy",
+    "sha256": "f5afab27e34a8473c35ba75e44a92468a74eefe44e4b419ac6c50a29824dfc03"
+  },
+  {
+    "file": "data/hardware_results.json",
+    "sha256": "c5a940d5de00fb856db9abd06433eac5385eda330fffa476bb9220c604f1d8f6"
+  },
+  {
+    "file": "data/independent_audit.json",
+    "sha256": "39cdecc6288b8235a7d864c9b888d0c89d6c222d1461c449f5b6c567e451ce89"
+  },
+  {
+    "file": "data/plan.json",
+    "sha256": "f8c369f6e345bfcb41127ae062f2ed9205f026532e9765bb63d3871dfa99adc4"
+  },
+  {
+    "file": "data/submitted_job.json",
+    "sha256": "e55c98935b0e62c73f0c79e4a5df993fb6c8f68192c051f52c12bca0dbddc1e6"
+  },
+  {
+    "file": "provenance/explore_two_sizes.py",
+    "sha256": "8fb98839a9d62bc2345d92631273f88d6d6ee79436e52cb92e1bb5789fa01a97"
+  },
+  {
+    "file": "provenance/two_size_search.json",
+    "sha256": "e133b03df49fe2919cd623229a23f66b1667a08b334c23cc2a08567bed9d96f9"
+  }
+]

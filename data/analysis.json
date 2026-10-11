@@ -1,0 +1,79 @@
+{
+  "job_id": "dasji6rg95ks73efkk60",
+  "results": [
+    {
+      "label": "pooled",
+      "correlations": [
+        [
+          0.78466796875,
+          0.62725830078125
+        ],
+        [
+          0.62591552734375,
+          -0.71014404296875
+        ]
+      ],
+      "split_probability": 0.33403778076171875,
+      "payoff": 0.9406022000903926,
+      "classical_payoff": 0.4000552784312854,
+      "predicted_classical_wait": 4.388815335990969,
+      "predicted_quantum_wait": 4.118541875161416,
+      "wait_reduction_percent": 6.158232692388444,
+      "five_percent_witness_excess": 0.10166538806001046,
+      "one_sided_99_allowance": 0.028062986212456092,
+      "one_sided_99_lower": 0.07360240184655437,
+      "passes_five_percent": true,
+      "conservative_99_relative_lower_percent": 5.778292390741708
+    },
+    {
+      "label": "block_1",
+      "correlations": [
+        [
+          0.78076171875,
+          0.632568359375
+        ],
+        [
+          0.62060546875,
+          -0.7110595703125
+        ]
+      ],
+      "split_probability": 0.3346405029296875,
+      "payoff": 0.9424768873482696,
+      "classical_payoff": 0.40528800270774146,
+      "predicted_classical_wait": 4.386198973852741,
+      "predicted_quantum_wait": 4.117604531532477,
+      "wait_reduction_percent": 6.1236264912153935,
+      "five_percent_witness_excess": 0.0985689872552542,
+      "one_sided_99_allowance": 0.039687055702344584,
+      "one_sided_99_lower": 0.05888193155190962,
+      "passes_five_percent": true,
+      "conservative_99_relative_lower_percent": 5.587191709398454
+    },
+    {
+      "label": "block_2",
+      "correlations": [
+        [
+          0.78857421875,
+          0.6219482421875
+        ],
+        [
+          0.6312255859375,
+          -0.709228515625
+        ]
+      ],
+      "split_probability": 0.33343505859375,
+      "payoff": 0.9387275128325154,
+      "classical_payoff": 0.3948225541548296,
+      "predicted_classical_wait": 4.391431698129197,
+      "predicted_quantum_wait": 4.119479218790354,
+      "wait_reduction_percent": 6.192797657645412,
+      "five_percent_witness_excess": 0.10476178886476628,
+      "one_sided_99_allowance": 0.039687055702344584,
+      "one_sided_99_lower": 0.06507473316142169,
+      "passes_five_percent": true,
+      "conservative_99_relative_lower_percent": 5.656566077463493
+    }
+  ],
+  "scope": "Independent shots, stable per-setting means within each block; bounds do not cover drift, cross-talk or remote separation. Queue translation excludes resource latency and availability. Same splitting rate classical comparison.",
+  "primary_test": "Pooled one-sided 99% Hoeffding lower bound on preselected 5%-reduction witness exceeds zero. Two block results are secondary diagnostics, not separate-device replications."
+}

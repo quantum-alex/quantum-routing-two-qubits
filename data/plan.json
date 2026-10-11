@@ -1,0 +1,184 @@
+{
+  "created_at": "2026-09-27T15:40:50.544142+00:00",
+  "backend": "ibm_marrakesh",
+  "physical_qubits": [
+    54,
+    55
+  ],
+  "short_probability": 0.5,
+  "long_to_short_ratio": 10,
+  "utilization": 0.8,
+  "service_times": [
+    0.18181818181818182,
+    1.8181818181818181
+  ],
+  "base": 4.588842975206612,
+  "W": [
+    [
+      0.15702479338842976,
+      1.1611570247933884
+    ],
+    [
+      1.1611570247933884,
+      7.520661157024794
+    ]
+  ],
+  "slope": 8.681818181818182,
+  "intercept": -2.5,
+  "exact_slope": "191/22",
+  "exact_intercept": "-5/2",
+  "exact_base": "2221/484",
+  "exact_classical_support_verified": true,
+  "classical_rules": [
+    {
+      "p": 0.0,
+      "A": -2.5
+    },
+    {
+      "p": 0.5,
+      "A": 1.8409090909090908
+    },
+    {
+      "p": 0.5,
+      "A": -1.8409090909090908
+    },
+    {
+      "p": 1.0,
+      "A": 2.5
+    },
+    {
+      "p": 0.5,
+      "A": 1.8409090909090908
+    },
+    {
+      "p": 0.5,
+      "A": -1.3388429752066116
+    },
+    {
+      "p": 0.5,
+      "A": 1.3388429752066116
+    },
+    {
+      "p": 0.5,
+      "A": -1.8409090909090908
+    },
+    {
+      "p": 0.5,
+      "A": -1.8409090909090908
+    },
+    {
+      "p": 0.5,
+      "A": 1.3388429752066116
+    },
+    {
+      "p": 0.5,
+      "A": -1.3388429752066116
+    },
+    {
+      "p": 0.5,
+      "A": 1.8409090909090908
+    },
+    {
+      "p": 1.0,
+      "A": 2.5
+    },
+    {
+      "p": 0.5,
+      "A": -1.8409090909090908
+    },
+    {
+      "p": 0.5,
+      "A": 1.8409090909090908
+    },
+    {
+      "p": 0.0,
+      "A": -2.5
+    }
+  ],
+  "angles": [
+    0.055774057113776365,
+    -0.7020726274163822,
+    -0.2543899535709515,
+    0.5034569008169218
+  ],
+  "target_reduction": 0.05,
+  "witness_coefficients": [
+    [
+      0.9917097107438017,
+      0.740676652892562
+    ],
+    [
+      0.740676652892562,
+      -0.8491993801652893
+    ]
+  ],
+  "witness_constant": -2.2077479338842974,
+  "roundoff_guard": 1e-12,
+  "settings": [
+    {
+      "block": 0,
+      "input_a": 0,
+      "input_b": 0,
+      "theta_a": 0.055774057113776365,
+      "theta_b": -0.2543899535709515
+    },
+    {
+      "block": 0,
+      "input_a": 1,
+      "input_b": 1,
+      "theta_a": -0.7020726274163822,
+      "theta_b": 0.5034569008169218
+    },
+    {
+      "block": 0,
+      "input_a": 0,
+      "input_b": 1,
+      "theta_a": 0.055774057113776365,
+      "theta_b": 0.5034569008169218
+    },
+    {
+      "block": 0,
+      "input_a": 1,
+      "input_b": 0,
+      "theta_a": -0.7020726274163822,
+      "theta_b": -0.2543899535709515
+    },
+    {
+      "block": 1,
+      "input_a": 1,
+      "input_b": 0,
+      "theta_a": -0.7020726274163822,
+      "theta_b": -0.2543899535709515
+    },
+    {
+      "block": 1,
+      "input_a": 0,
+      "input_b": 1,
+      "theta_a": 0.055774057113776365,
+      "theta_b": 0.5034569008169218
+    },
+    {
+      "block": 1,
+      "input_a": 1,
+      "input_b": 1,
+      "theta_a": -0.7020726274163822,
+      "theta_b": 0.5034569008169218
+    },
+    {
+      "block": 1,
+      "input_a": 0,
+      "input_b": 0,
+      "theta_a": 0.055774057113776365,
+      "theta_b": -0.2543899535709515
+    }
+  ],
+  "shots_per_circuit": 16384,
+  "total_shots": 131072,
+  "max_execution_time": 60,
+  "compiled_sha256": "f5afab27e34a8473c35ba75e44a92468a74eefe44e4b419ac6c50a29824dfc03",
+  "compilation_probability_error": 1.6653345369377348e-16,
+  "primary_test": "Pooled one-sided 99% Hoeffding lower bound on preselected 5%-reduction witness exceeds zero. Two block results are secondary diagnostics, not separate-device replications.",
+  "assumptions": "Independent shots, stable per-setting means within each block; bounds do not cover drift, cross-talk or remote separation. Queue translation excludes resource latency and availability. Same splitting rate classical comparison.",
+  "primary_hoeffding_allowance": 0.028062986212456092,
+  "expected_096_gain_percent": 5.72618523037799
+}

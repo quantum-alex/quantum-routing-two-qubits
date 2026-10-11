@@ -1,0 +1,93 @@
+{
+  "plan_hash_verified": true,
+  "raw_count_exact_recomputation_passed": true,
+  "exact_gain_fraction": "17145837/278421389",
+  "gain_percent": 6.1582326923884425,
+  "exact_five_percent_witness": "64495351/634388480",
+  "classical_support_attainable": true,
+  "diagnostics": [
+    {
+      "kind": "local_marginal",
+      "block": 0,
+      "party": 0,
+      "local_input": 0,
+      "p_value": 0.4657716528860104
+    },
+    {
+      "kind": "local_marginal",
+      "block": 0,
+      "party": 0,
+      "local_input": 1,
+      "p_value": 0.6268042274240214
+    },
+    {
+      "kind": "local_marginal",
+      "block": 0,
+      "party": 1,
+      "local_input": 0,
+      "p_value": 0.7071137343057871
+    },
+    {
+      "kind": "local_marginal",
+      "block": 0,
+      "party": 1,
+      "local_input": 1,
+      "p_value": 0.17414947366005615
+    },
+    {
+      "kind": "local_marginal",
+      "block": 1,
+      "party": 0,
+      "local_input": 0,
+      "p_value": 0.9735549968728617
+    },
+    {
+      "kind": "local_marginal",
+      "block": 1,
+      "party": 0,
+      "local_input": 1,
+      "p_value": 0.7153186641213859
+    },
+    {
+      "kind": "local_marginal",
+      "block": 1,
+      "party": 1,
+      "local_input": 0,
+      "p_value": 0.955943733193482
+    },
+    {
+      "kind": "local_marginal",
+      "block": 1,
+      "party": 1,
+      "local_input": 1,
+      "p_value": 0.5881985596234944
+    },
+    {
+      "kind": "block_correlation_change",
+      "input_a": 0,
+      "input_b": 0,
+      "p_value": 0.25401607774835616
+    },
+    {
+      "kind": "block_correlation_change",
+      "input_a": 0,
+      "input_b": 1,
+      "p_value": 0.21712150532443714
+    },
+    {
+      "kind": "block_correlation_change",
+      "input_a": 1,
+      "input_b": 0,
+      "p_value": 0.21775863464537515
+    },
+    {
+      "kind": "block_correlation_change",
+      "input_a": 1,
+      "input_b": 1,
+      "p_value": 0.8139057031357255
+    }
+  ],
+  "bonferroni_threshold": 0.004166666666666667,
+  "flagged_diagnostics": [],
+  "scope": "Diagnostic tests are post-measurement checks, not primary success criteria. Absence of flags does not prove absence of crosstalk, drift, or signalling. Raw-bit marginals tested without outcome relabeling, which does not alter these tests."
+}

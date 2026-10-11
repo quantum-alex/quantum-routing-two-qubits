@@ -1,0 +1,1349 @@
+{
+  "scope": "Exploratory two-size workloads; classical comparator exhaustively enumerates all local binary rules and shared randomness. Six random local optimization starts per case, not a global bound. Noise visibility is hypothetical. No new hardware data.",
+  "records": [
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 6.638948610887772,
+      "angles": [
+        -2.7119506564067284,
+        0.7556920325261112,
+        -0.5794949596119291,
+        2.2360479640666764
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": 3.7736859508000458,
+      "angles": [
+        -0.9284596390558874,
+        -0.43202472389364494,
+        4.6507792738420335,
+        1.0127519112381247
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 4.02488261430518,
+      "angles": [
+        0.7332681776072848,
+        0.24701623612736892,
+        1.4487920610820888,
+        1.935045257235099
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": 2.5691037176840665,
+      "angles": [
+        -1.4410381920357085,
+        -0.9018648838040424,
+        -2.0572850034081553,
+        0.5451221918816248
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 2.170062506418631,
+      "angles": [
+        0.8808394757514283,
+        -1.5810622021079754,
+        1.060273411887649,
+        -2.761014436938369
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 1.6562232922170472,
+      "angles": [
+        2.580019955801283,
+        -1.2334472681919308,
+        -0.7414612081245677,
+        -0.06960643691116095
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 2.2040059170091935,
+      "angles": [
+        2.6235466653964643,
+        3.3076634423453797,
+        -3.4639148712754504,
+        2.1351563240288045
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 1.7154560397895042,
+      "angles": [
+        0.3781204693722217,
+        1.0559924526760331,
+        -2.5676142446929413,
+        -3.2454812314783728
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 15.462755429948253,
+      "angles": [
+        -2.6789767872787746,
+        -2.319128612793032,
+        -0.4864502817530336,
+        -0.8462974287124856
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": 3.3115469007310057,
+      "angles": [
+        1.1947030203634208,
+        -1.2779116471974987,
+        1.331429945062602,
+        -2.4791424867893697
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 7.620507784728608,
+      "angles": [
+        -3.4651353576919166,
+        0.1879282566924287,
+        2.1580017753913734,
+        -1.4950644324342728
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": 4.795219893303349,
+      "angles": [
+        0.21777760962784476,
+        -0.3320011161361481,
+        0.8045889161153819,
+        -1.7872284470038002
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 5.0875962126597205,
+      "angles": [
+        -2.3821302072805017,
+        0.042090517539447724,
+        3.6706623341656823,
+        -1.8951545514298347
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 4.094291345392615,
+      "angles": [
+        -0.10275580480674153,
+        0.6073597430295306,
+        0.12772527539450632,
+        2.5592025518168233
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 5.2978379125031045,
+      "angles": [
+        -2.3016982340779304,
+        0.10372805327238734,
+        0.5698371206787062,
+        1.3060047563321604
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 4.374060439043916,
+      "angles": [
+        0.781314855050437,
+        1.5118012956915676,
+        -2.090736220656775,
+        -2.821222880469552
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 20.45359398108495,
+      "angles": [
+        0.286792038684821,
+        3.049454898142914,
+        1.2017686661424778,
+        -1.5608940657941817
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": 12.148072249255645,
+      "angles": [
+        -1.7429792085359743,
+        -1.2376806871203967,
+        0.7123680196854015,
+        -2.934522862553845
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 8.927722241985817,
+      "angles": [
+        -2.512219520643144,
+        -3.0360240994146133,
+        -1.8795341168884516,
+        -1.35572919146773
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": 4.535052034902615,
+      "angles": [
+        2.234778890654595,
+        -1.5905994476585434,
+        -1.069673827465703,
+        -3.5274791685006495
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 6.491008286281552,
+      "angles": [
+        -0.5407897594647337,
+        0.19474193224816924,
+        -3.4252050539579812,
+        -1.0191465513783988
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 5.321071243460305,
+      "angles": [
+        0.41639904616573276,
+        -1.9965959853649937,
+        -2.4682486564873853,
+        -3.1968489281604238
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 6.802472352401785,
+      "angles": [
+        1.4137255948814178,
+        0.6504036184622514,
+        -2.039074472326699,
+        1.865841745261518
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 5.7261852303779905,
+      "angles": [
+        0.05577405711377631,
+        -3.8436652810061753,
+        -0.25438995357095145,
+        -2.6381357527728713
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 25.908296784581854,
+      "angles": [
+        0.7364624273288203,
+        -2.0065128560832184,
+        -3.2847670429338214,
+        2.5998007022141003
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": 15.648944808420994,
+      "angles": [
+        -2.757554887479913,
+        -0.12577608578396876,
+        1.0615078217425085,
+        1.5713212050333598
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 9.921660265783771,
+      "angles": [
+        -1.9789115725346,
+        -2.513896184767441,
+        -1.3714626780180386,
+        -0.8364776953684137
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": 5.551329864664732,
+      "angles": [
+        1.36278500520822,
+        -1.088717535563007,
+        1.5304741403177118,
+        0.8403835703903038
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 7.790086283572157,
+      "angles": [
+        0.2937101330522585,
+        -0.4598883824991181,
+        0.008836034245906923,
+        0.7624345451519271
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 6.482821413492097,
+      "angles": [
+        2.6481460621859494,
+        -1.2403908420142322,
+        2.3639050661249357,
+        -0.03074225231186638
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 8.212087601484606,
+      "angles": [
+        2.421317475275433,
+        0.07164780089471202,
+        2.7768045586194066,
+        -1.156713588190582
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.5,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 7.019647787514498,
+      "angles": [
+        2.1800284356664643,
+        2.966577303774601,
+        -0.6077790457771975,
+        -1.3943284099183522
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 2.3974337414108975,
+      "angles": [
+        1.0526496749801042,
+        -1.7280898266553226,
+        -3.1773226392241987,
+        2.745007656447053
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": 0.3038956987920145,
+      "angles": [
+        0.07426981299617469,
+        -2.0527685169844636,
+        0.01826623371481219,
+        2.14529351785887
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 1.9743286225840588,
+      "angles": [
+        1.5383498836024456,
+        -1.031584150032659,
+        0.7370652040832582,
+        0.16541166915792305
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": 0.4440779131243005,
+      "angles": [
+        -0.6931142964441394,
+        -1.699930311479753,
+        -0.6242908246412221,
+        0.38253216727200023
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 1.8034239907012313,
+      "angles": [
+        -3.129466504756733,
+        -2.425182258527178,
+        -0.5723070053319174,
+        1.865005112064131
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 1.4201933464599592,
+      "angles": [
+        0.9120658602391069,
+        -2.95426001350745,
+        1.4678045678422225,
+        -0.9490425676876336
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 1.8297786036179116,
+      "angles": [
+        0.31999702313152895,
+        2.7309586381850472,
+        0.8453767566719851,
+        1.5760056884190956
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 1.5002541610976587,
+      "angles": [
+        -2.978690315009443,
+        -0.5790625235566974,
+        -2.469928382362668,
+        1.4136305862973295
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 7.7688996281282074,
+      "angles": [
+        -1.360992835438965,
+        -1.7837221565258594,
+        -0.35590258943344244,
+        0.06682668634488213
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": 4.507206660918749,
+      "angles": [
+        -2.0737615314594615,
+        -1.4394010796720134,
+        0.33971790763726994,
+        -0.29464979294925403
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 6.156826386302501,
+      "angles": [
+        0.532550643943236,
+        -1.9720849691754572,
+        -0.16001763381494816,
+        -0.7969654559774138
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": 4.591918456241195,
+      "angles": [
+        -2.269312909984733,
+        0.186846729610442,
+        1.4988332740115187,
+        2.1842673943037854
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 4.555583039634907,
+      "angles": [
+        5.965387895018565,
+        8.408399927770686,
+        -2.972818683977075,
+        -14.840620566770674
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 3.8501339768717306,
+      "angles": [
+        -1.3317133860668513,
+        2.515827479838169,
+        -1.8058685340055296,
+        -2.511819534106709
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 3.1254499267814086,
+      "angles": [
+        0.9673831026737536,
+        1.635972432406437,
+        -2.656858634337847,
+        2.957737248385428
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 2.5501206563056926,
+      "angles": [
+        2.5280418355319636,
+        1.8546369865680494,
+        3.002084989921521,
+        0.5338973951702888
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 13.02996738858739,
+      "angles": [
+        0.7739687363811724,
+        -1.8881763844402428,
+        -0.15506514746671868,
+        -0.6345129681348775
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": 7.908358452513899,
+      "angles": [
+        -2.818493924072812,
+        -0.3199779884547854,
+        -2.1033644329819396,
+        1.6813049232322375
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 9.236808254943014,
+      "angles": [
+        0.8488616472783671,
+        1.5307653531647398,
+        0.23612600372488152,
+        2.6958140306206335
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": 7.291578429258854,
+      "angles": [
+        -0.36405061659045396,
+        2.068632222617165,
+        0.21067961493622722,
+        0.919589904266666
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 3.7996433668278873,
+      "angles": [
+        -1.68354081012321,
+        -1.0272674127337689,
+        -2.170543957635017,
+        3.456367873046109
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 3.0534078970324,
+      "angles": [
+        -1.476462519545241,
+        -2.1374653143019753,
+        -0.9980146832056428,
+        -0.33701177127306986
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 3.0642659033679642,
+      "angles": [
+        0.5060598054073405,
+        -2.0521032869255937,
+        0.5700202829265358,
+        3.1281829291500673
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 1.5546976647793291,
+      "angles": [
+        0.8167080600809297,
+        -2.9437857681845463,
+        1.3043653028659774,
+        1.923275145668646
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 23.084606548282398,
+      "angles": [
+        -2.190593265420547,
+        -1.6274204491772122,
+        0.13388172347614166,
+        2.7123016435662533
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": 14.87847086355745,
+      "angles": [
+        1.684053767815877,
+        -0.7920014064031436,
+        -2.1412196778902772,
+        -2.806757530713308
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 12.774514364249265,
+      "angles": [
+        1.4767131056204983,
+        0.7508647226131542,
+        1.9989701568085139,
+        2.7248188014871904
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": 10.619336536267523,
+      "angles": [
+        0.615637787906144,
+        -3.2635833673694723,
+        1.1203253747826594,
+        -1.2836386954346144
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 3.799279055942742,
+      "angles": [
+        0.893484082757978,
+        3.4473760895245293,
+        -2.315112583366761,
+        -1.7274343990393357
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 1.6169776635464266,
+      "angles": [
+        -2.5283900046469308,
+        -3.139107503997325,
+        1.101880709394927,
+        -1.4289955302192308
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 3.9980954200185064,
+      "angles": [
+        -2.454245504782526,
+        1.2839189787225511,
+        0.77365093913311,
+        0.17707868710423746
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.8,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 2.2244216456766766,
+      "angles": [
+        -1.0832726351109074,
+        -1.6728291903397656,
+        1.972356220015103,
+        2.561916379685576
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.04088124348878876,
+      "angles": [
+        2.21333802258663,
+        -1.2479525809919665,
+        0.29360007813557204,
+        0.6132888317214145
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.1057016514744863,
+      "angles": [
+        0.010225927865101922,
+        -1.5610359588299805,
+        0.00981784956054697,
+        -1.5605017897363218
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.04051626551480114,
+      "angles": [
+        -0.15076674495939177,
+        -1.2015408945235915,
+        -3.29074859470197,
+        0.90168867481412
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.10328255202714884,
+      "angles": [
+        1.7096814578026478,
+        -2.9993697019914483,
+        -1.4289328283150817,
+        0.13836365304961332
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.0541284534188752,
+      "angles": [
+        0.44447886557851746,
+        1.4939531333338234,
+        -2.699439408181238,
+        -0.6068210370267335
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.09008778288516685,
+      "angles": [
+        0.5473875288031937,
+        -0.5038804754176552,
+        1.002058838521822,
+        2.053268977525932
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.060106282308336305,
+      "angles": [
+        2.451663818889488,
+        1.4031262958004802,
+        2.4543424893706653,
+        0.36150745018434605
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 2.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.08082705627198375,
+      "angles": [
+        0.6940142350916596,
+        1.6508302791507536,
+        0.15526039093657146,
+        2.3400186892559973
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.16015138522097222,
+      "angles": [
+        1.2893608468013313,
+        -1.4932858750769689,
+        -3.0309934656610826,
+        -3.389939321886146
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.4152899843288386,
+      "angles": [
+        3.0621243049124742,
+        -1.6502867712918514,
+        -0.07948749576489861,
+        -1.6502626188910987
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.19963836605638766,
+      "angles": [
+        2.4319746131600333,
+        -2.797505190003677,
+        -0.7119309156252971,
+        1.3756685781281186
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.3654764251099712,
+      "angles": [
+        2.0783690943548456,
+        0.9128815464648179,
+        2.4282367886203247,
+        -2.6894626989708827
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.3374408076213345,
+      "angles": [
+        2.3534096334100396,
+        -2.8808856498115234,
+        2.347819615531261,
+        -1.8426626120576277
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.11086384842653742,
+      "angles": [
+        -1.4753686125993826,
+        -2.293050239423415,
+        -0.8411946276781279,
+        -3.165113684375258
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.38875018896821084,
+      "angles": [
+        -0.11763999310289516,
+        0.9287892472104634,
+        3.0163036541847537,
+        -1.1717825456345683
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 5.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 0.0005506247540501476,
+      "angles": [
+        -1.15538820140017,
+        1.20089585274234,
+        -0.511923177681789,
+        0.2733883407294732
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.33175206439199917,
+      "angles": [
+        -0.3646951819250851,
+        -3.0795810872534815,
+        1.6720591704041456,
+        -1.896239715029894
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.8975199149118877,
+      "angles": [
+        2.2152499965499155,
+        0.6445191687200621,
+        2.215306956736254,
+        0.6444459260778488
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.47488820191684744,
+      "angles": [
+        -0.7250110107659385,
+        -1.7815764371990321,
+        -0.7217405192357633,
+        3.4764124784003343
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.5662896532546604,
+      "angles": [
+        -1.4112951199152668,
+        -2.381155500035576,
+        2.2478796981224782,
+        -3.065441920620964
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.7458387978446456,
+      "angles": [
+        -0.19880782862419064,
+        1.8990107128495457,
+        2.95500943707347,
+        0.8571795733844604
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 0.27705441857409785,
+      "angles": [
+        1.0096944614038115,
+        -2.900867561064961,
+        -1.5122152666251674,
+        2.398343608969207
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 0.8854517314349273,
+      "angles": [
+        23.771893427062405,
+        -0.601767729717184,
+        -5.080911467335056,
+        -15.264765734915072
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 10.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 0.5702443984548653,
+      "angles": [
+        -0.5583500595426473,
+        -2.931164497471918,
+        -1.1248910964925627,
+        -1.893682906032337
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.01,
+      "visibility": 1.0,
+      "wait_reduction_percent": 1.102664620278574,
+      "angles": [
+        1.9630143716506425,
+        -0.0911501062766365,
+        1.9610825520142534,
+        -2.2679430699958054
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.01,
+      "visibility": 0.96,
+      "wait_reduction_percent": -3.303774668390013,
+      "angles": [
+        -0.5253446098019329,
+        1.3506500520708469,
+        2.8830932887599796,
+        -2.1344934114890664
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.1,
+      "visibility": 1.0,
+      "wait_reduction_percent": 1.1961052112042099,
+      "angles": [
+        -1.4956789848397525,
+        0.5910854094775436,
+        -1.488983321286752,
+        -0.4341559011861085
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.1,
+      "visibility": 0.96,
+      "wait_reduction_percent": -0.17776476383316292,
+      "angles": [
+        0.7044792190492513,
+        1.4963900527857614,
+        3.196775912329887,
+        -3.878322448668332
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.5,
+      "visibility": 1.0,
+      "wait_reduction_percent": 1.7923359650972828,
+      "angles": [
+        -0.7545629517778686,
+        3.1410424529677834,
+        1.97014897303354,
+        -1.9254572114313373
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.5,
+      "visibility": 0.96,
+      "wait_reduction_percent": 1.5335022463276202,
+      "angles": [
+        -0.1991633801580804,
+        -2.5855873145217183,
+        2.5273777901088055,
+        1.7722192625018864
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.8,
+      "visibility": 1.0,
+      "wait_reduction_percent": 1.1073980251392965,
+      "angles": [
+        0.17681809093654552,
+        2.779927807207496,
+        -2.979226682204234,
+        0.7006634377827121
+      ],
+      "optimizer_success": true
+    },
+    {
+      "short_probability": 0.95,
+      "long_to_short_size_ratio": 50.0,
+      "utilization": 0.8,
+      "visibility": 0.96,
+      "wait_reduction_percent": 0.6416205856805902,
+      "angles": [
+        0.9944086151383558,
+        0.3382899821286339,
+        -1.686476510270899,
+        -1.0303536751438331
+      ],
+      "optimizer_success": true
+    }
+  ]
+}
